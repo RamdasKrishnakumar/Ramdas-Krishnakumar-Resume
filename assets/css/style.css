@@ -812,19 +812,6 @@ section .container {
   align-items: center;
 }
 
-.portfolio .portfolio-wrap .portfolio-info::before {
-  display: block;
-  content: "";
-  transition: all 0.5s ease 0s;
-  z-index: 9994;
-}
-
-.portfolio .portfolio-wrap .portfolio-info::after {
-  display: block;
-  content: "";
-  transition: all 0.5s ease 0s;
-  z-index: 9994;
-}
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
