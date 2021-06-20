@@ -1,8 +1,4 @@
-Just adding a few key words for resume hits :D 
-
-Ramdas Krishnakumar resume
-Ramdas K
-
+My resume webpage
 
 
 
